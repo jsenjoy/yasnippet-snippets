@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: $ajax
+# key: $ajax
+# --
+$.ajax({
+  type: '$1',
+  url: '$2',
+  dataType: '${3:json}',
+  data: $4
+});
