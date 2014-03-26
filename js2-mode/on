@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: $on
+# key: $on
+# --
+on('$1', function (event) {
+$0
+})
