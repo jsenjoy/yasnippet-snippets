@@ -3,5 +3,5 @@
 # key: func
 # --
 $1 = function ($2) {
-$0
+  $0
 };
